@@ -25,10 +25,10 @@ public class Bathtub extends JFrame {
         
         this.setVisible( true  );
         
-    } // Spitfire()
+    } // Bathtub()
     
     public static void main(String[] args) {
         Bathtub bathtub = new Bathtub();
     } // main( String [] )
     
-} // Spitfire
+} // Bathtub
